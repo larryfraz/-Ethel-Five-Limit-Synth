@@ -1,0 +1,5 @@
+/* Replace tuning table with these. Use two octaves. period for sutris scale -- too low an octave. Last two notes identical -- so you get two even octaves (: */
+/* One of these is 22-note Sutris scale, other is undocumented. "Think in assembler, code in 'C'
+*///////////////////////////////////
+const unsigned int synthNotes[nNotes = { 61156,60410, 57334,55040,54361, 51600,50963,48925, 48321, 45867, 45301, 43489, 43000, 40771, 38700, 38223, 36694, 36241, 34400,33976, 32214, 32214, 30578};
+/* also {61556,64428,65233,67951,68801, 72481, 73387,76445,77401,81541,82561,86000, 86977,91734,96642,97850,101927,103201, 108772, 110081,101927, 116101, 116101}
